@@ -12,8 +12,7 @@ Han habido muchas mujeres en la historia, tanto de la tecnología como de la com
 
 Hedy Lamarr fue una visionaria inventora nacida en 1914 en Austria, conocida en el ámbito tecnológico por cocrear el salto de frecuencia (frequency hopping), durante la Segunda Guerra Mundial. Esta era una técnica que alteraba rápidamente las frecuencias de la señal entre un transmisor y un receptor para evitar la interceptación y el bloqueo en los torpedos teledirigidos. Aunque inicialmente rechazada y clasificada como "alto secreto" por la Marina de EE. UU., esta tecnología de espectro ensanchado (spread spectrum) se convirtió décadas más tarde en la base fundamental de las comunicaciones inalámbricas modernas que utilizamos actualmente, incluyendo Wi-Fi, Bluetooth y GPS.
 
-
-![imagen](insertar link)
+![imagen](https://cdn.sparkfun.com/assets/home_page_posts/6/1/4/7/Screen_Shot_2023-03-08_at_10.54.34_AM.png)
 
 ## **2. ¿Desde qué ámbito Hedy Lamarr contribuyó a la historia de la computación?**
 
@@ -36,20 +35,19 @@ En 1942 obtuvieron la patente estadounidense, pero la Marina de EE. UU. rechazó
 
 Este principio, más tarde conocido como espectro ensanchado (spread spectrum), se consolidó con el paso de las décadas como la base de las comunicaciones inalámbricas modernas. Su influencia fue decisiva en estándares como Wi-Fi, además de Bluetooth y GPS, convirtiéndo en un legado tecnológico de alcance global, consolidando a Lamarr como una pionera cuyo invento de guerra sentó las bases para el mundo conectado de hoy.
 
-![imagen](insertar link)
+![imagen](https://climateloggers.com/mlng/wp-content/uploads/2019/11/climatelogger-wifi-iso-02.jpg)
 
 ## **5. ¿Cómo su historia y contexto personal influyó en su trayectoria creativa/científica?**
 
 Proveniente de una familia judía, Lamarr desde su infancia demostró su destacada creatividad e interés por la funcionalidad de las cosas, lo que la llevó a inicialmente estudiar ingeniería, aunque después dejaría esa formación para dedicarse al arte dramático. Tiempo después se casó en contra de su voluntad con Fritz Mandl, un fabricante de armamento fascista, que su nivel de posesivo llegó hasta el punto de limitar su libertad, dejándola encerrada en su casa y obligarla a estar en reuniones sociocomerciales donde la pudiera vigilar. Es aquí donde Hedy aprovecha el intercambio de informaciones armamentísticas nazi y retoma sus estudios en ingenería, llegando a establecer las bases para la comunicación en saltos de frecuencia después de escapar de su matrimonio y ofrecer su conocimiento al gobierno de Estados Unidos durante la Segunda Guerra Mundial, al disponer de información relevante del ejército de Alemania.
 
-
-![imagen](insertar link)
+![imagen](https://climateloggers.com/mlng/wp-content/uploads/2019/11/climatelogger-wifi-iso-02.jpg)
 
 ## **6. ¿Por qué a pesar de la relevancia de su invento su nombre quedó perdido en la historia?**
 
 El rol de Hedy Lamarr como inventora se vio eclipsado por el impacto que tuvo su trayectoria como actriz, siendo principalmente recordada por ser la “actriz más bella de Hollywood” y el primer desnudo en el cine que por su invento. A pesar de tener esta variedad de facetas creativas, su aporte científico fue ignorado por los imponentes prejuicios de género presentes en la época. Además, su sistema de comunicación con saltos de frecuencia fue ideado para utilizarse en el contexto bélico de la Segunda Guerra Mundial, por lo que su reconocimiento se vio aplazado y poco valorado con el tiempo en la historia de la computación, quedando como una inventora “silenciosa” en un aporte de gran escala.
 
-![imagen](insertar link)
+![imagen](https://www.telemadrid.es/2023/03/31/htmls/_2546755317_40774425_1300x731.jpg)
 
 ## **7. ¿Qué impacto tiene su legado en la actualidad?**
 
