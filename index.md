@@ -41,7 +41,7 @@ Este principio, más tarde conocido como espectro ensanchado (spread spectrum), 
 
 Proveniente de una familia judía, Lamarr desde su infancia demostró su destacada creatividad e interés por la funcionalidad de las cosas, lo que la llevó a inicialmente estudiar ingeniería, aunque después dejaría esa formación para dedicarse al arte dramático. Tiempo después se casó en contra de su voluntad con Fritz Mandl, un fabricante de armamento fascista, que su nivel de posesivo llegó hasta el punto de limitar su libertad, dejándola encerrada en su casa y obligarla a estar en reuniones sociocomerciales donde la pudiera vigilar. Es aquí donde Hedy aprovecha el intercambio de informaciones armamentísticas nazi y retoma sus estudios en ingenería, llegando a establecer las bases para la comunicación en saltos de frecuencia después de escapar de su matrimonio y ofrecer su conocimiento al gobierno de Estados Unidos durante la Segunda Guerra Mundial, al disponer de información relevante del ejército de Alemania.
 
-![imagen](https://climateloggers.com/mlng/wp-content/uploads/2019/11/climatelogger-wifi-iso-02.jpg)
+![imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg/960px-Bundesarchiv_Bild_183-1987-0703-507%2C_Berlin%2C_Reichstagssitzung%2C_Rede_Adolf_Hitler.jpg)
 
 ## **6. ¿Por qué a pesar de la relevancia de su invento su nombre quedó perdido en la historia?**
 
