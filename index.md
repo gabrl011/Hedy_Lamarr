@@ -1,7 +1,7 @@
 # **Hedwig Eva Maria Kiesler (Hedy Lamarr)**
 ## **La base de las conexiones inalámbricas**
 
-![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHedy_Lamarr&psig=AOvVaw2UHHviHn3ji5W34TcssS6B&ust=1757162030769000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDXk-fQwY8DFQAAAAAdAAAAABAU)
+![texto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHedy_Lamarr&psig=AOvVaw2UHHviHn3ji5W34TcssS6B&ust=1757162030769000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDXk-fQwY8DFQAAAAAdAAAAABAU)
 
 ## **Introducción**
 Han habido muchas mujeres en la historia, tanto de la tecnología como de la computación, que no han sido reconocidas por sus contribuciones a esta. Hedy Lamarr y su aporte crucial al desarrollo de la tecnología inalámbrico son uno de los tantos ejemplos.
